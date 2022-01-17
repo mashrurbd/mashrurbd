@@ -1,8 +1,7 @@
 <h2> Hi, I'm Mashrur Mohsin Afif! <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEnsRjw7i4aV_So5yqIj00PdZ9m7octvnO0sDiA2nJ98Fi0f-P_Aqrh2MUdfSrW_LtoA&usqp=CAU" width="20"></h2>
 <img align='right' src="https://i.imgur.com/olpq5SD.png">
-<p><b>Founder of <b>🔥⚡ FireBolt! Incorporated</b> 
-  </br>Engineer in EEE from <a href="https://uiu.ac.bd">United International University </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</b></p>
+<p>Electrical & Electronic Engineer in EEE from <a href="https://uiu.ac.bd">United International University </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</b>
 
 <br/>
 <br/>
