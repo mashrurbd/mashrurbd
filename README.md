@@ -52,20 +52,26 @@ I also enjoy developing web applications, experimenting with backend technologie
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashrurbd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrurbd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashrurbd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub statistics including private commit counts" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrurbd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Most used programming languages" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mashrurbd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=mashrurbd&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub contribution streak" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mashrurbd&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mashrurbd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
 </p>
 
 ---
