@@ -73,7 +73,7 @@ I also enjoy developing web applications, experimenting with backend technologie
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [@mashrurbd](https://github.com/mashrurbd)
-- 🌐 Website: [mashrurbd.github.io](https://mashrurbd.github.io)
+- 🌐 Website: [mig33.net](https://mig33.net)
 
 ---
 
