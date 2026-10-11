@@ -1,6 +1,10 @@
+![Profile Views](https://komarev.com/ghpvc/?username=mashrurbd&style=for-the-badge&color=blueviolet&label=STALKERS+VISITED)
+
 # Hi, I'm Mashrur Mohsin Afif 👋
 
 ### 🎓 B.Sc. in EEE | 🤖 Robotics Enthusiast | 🔌 IoT Developer
+
+> 💀 **You've found my profile.** Now act natural — I'm pretending to be productive.
 
 I'm an Electrical and Electronic Engineering (EEE) graduate with a strong interest in **IoT, robotics, embedded systems, and electronics**. I enjoy experimenting with microcontrollers, connected devices, automation, and hardware projects.
 
@@ -11,6 +15,7 @@ Beyond engineering, I explore web development, backend systems, APIs, and social
 - 🏠 **Exploring:** Home automation, wireless communication, and BLE mesh networking
 - 💻 **Hobby projects:** Web applications, APIs, and social networking platforms
 - 🌱 **Always learning:** New technologies, engineering ideas, and practical implementations
+- ☕ **Current status:** Turning caffeine into questionable engineering decisions
 
 ---
 
@@ -25,6 +30,8 @@ Beyond engineering, I explore web development, backend systems, APIs, and social
 - **[Arduino](https://github.com/mashrurbd/Arduino)** — Arduino libraries and embedded development.
 - **[Blynk-IoT-Home-Automation-with-four-relays](https://github.com/mashrurbd/Blynk-IoT-Home-Automation-with-four-relays)** — Home automation using IoT and relay control.
 - **[IoT-Weather-Station-ESP32s](https://github.com/mashrurbd/IoT-Weather-Station-ESP32s)** — Weather station project using ESP32.
+
+> ⚡ I make devices talk to each other because apparently humans aren't complicated enough.
 
 ---
 
@@ -47,12 +54,14 @@ I also enjoy developing web applications, experimenting with backend technologie
   <img src="https://skillicons.dev/icons?i=php,vue,js,ts,python,go,nodejs,express,mysql,mongodb,firebase,git,github" alt="Web development and software technologies" />
 </p>
 
+> 🐛 It works on my machine. The machine is now officially in production.
+
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashrurbd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub statistics including private commit counts" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashrurbd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrurbd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Most used programming languages" />
 </p>
 
@@ -74,6 +83,8 @@ I also enjoy developing web applications, experimenting with backend technologie
   <img src="https://github-profile-trophy.vercel.app/?username=mashrurbd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
 </p>
 
+> 📉 My bugs are open source. My debugging process is classified information.
+
 ---
 
 ## 🤝 Connect With Me
@@ -84,9 +95,7 @@ I also enjoy developing web applications, experimenting with backend technologie
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mashrurbd&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
-
-<p align="center">
   <i>Building, experimenting, and bringing ideas to life through electronics and code. ⚡🤖</i>
+  <br/>
+  <i>“If it has a circuit, I'll probably tinker with it. If it has an API, I'll probably break it.” 😎</i>
 </p>
